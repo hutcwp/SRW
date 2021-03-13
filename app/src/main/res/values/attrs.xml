@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LineView">
+        <attr name="lineColor" format="color" />
+        <attr name="shadowColor" format="color" />
+        <attr name="lineTextColor" format="color" />
+        <attr name="viewMargin" format="dimension" />
+        <attr name="lineTextSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
